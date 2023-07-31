@@ -43,7 +43,6 @@ button {
 .header__logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
-  /* font-style: normal; */
   font-weight: 800;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -64,7 +63,6 @@ button {
 .menu__link {
   color: var(--navyblue);
   font-size: 16px;
-  /* font-style: normal; */
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -87,8 +85,6 @@ button {
 .header__address__link {
   color: var(--slate);
   font-size: 16px;
-  /* font-style: normal; */
-  /* font-weight: 400; */
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -111,15 +107,12 @@ button {
   color: var(--white);
   text-align: center;
   font-size: 56px;
-  /* font-style: normal; */
-  /* font-weight: 700; */
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
 .hero__button {
   color: var(--white);
   font-size: 16px;
-  /* font-style: normal; */
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -148,7 +141,6 @@ button {
 .advantages__title {
   color: var(--navyblue);
   font-size: 20px;
-  /* font-style: normal; */
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -157,8 +149,6 @@ button {
 .advantages__text {
   color: var(--slate);
   font-size: 16px;
-  /* font-style: normal; */
-  /* font-weight: 400; */
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -172,8 +162,6 @@ button {
   color: var(--navyblue);
   text-align: center;
   font-size: 36px;
-  /* font-style: normal; */
-  /* font-weight: 700; */
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -198,8 +186,6 @@ button {
   color: var(--navyblue);
   text-align: center;
   font-size: 36px;
-  /* font-style: normal; */
-  /* font-weight: 700; */
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -219,7 +205,6 @@ button {
   color: var(--navyblue);
   text-align: center;
   font-size: 20px;
-  /* font-style: normal; */
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -229,8 +214,6 @@ button {
   color: var(--slate);
   text-align: center;
   font-size: 16px;
-  /* font-style: normal; */
-  /* font-weight: 400; */
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -253,7 +236,6 @@ button {
   color: var(--iris);
   text-align: center;
   font-size: 16px;
-  /* font-style: normal; */
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -284,7 +266,6 @@ button {
 .portfolio-projects__title {
   color: var(--navyblue);
   font-size: 20px;
-  /* font-style: normal; */
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -293,8 +274,6 @@ button {
 .portfolio-projects__text {
   color: var(--slate);
   font-size: 16px;
-  /* font-style: normal; */
-  /* font-weight: 400; */
   line-height: 1.5;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -308,7 +287,6 @@ button {
 .footer__logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
-  /* font-style: normal; */
   font-weight: 800;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -323,8 +301,6 @@ button {
 .footer__text {
   color: var(--cloud);
   font-size: 16px;
-  /* font-style: normal; */
-  /* font-weight: 400; */
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
