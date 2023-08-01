@@ -111,10 +111,10 @@ img {
   display: flex;
   flex-direction: row;
   margin-right: 332px;
-  padding: 24px 0;
 }
 
 .menu__item {
+  padding: 24px 0;
 }
 
 .menu__item:not(:last-child) {
@@ -394,8 +394,8 @@ img {
   height: 120px;
   padding: 32px 16px;
 
-  border-top: none;
   border: 1px solid var(--cornflower);
+  border-top: none;
   background: var(--white);
 }
 
