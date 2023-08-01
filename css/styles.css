@@ -101,6 +101,8 @@ img {
   text-transform: uppercase;
   color: var(--iris);
   margin-right: 76px;
+
+  padding: 24px 0;
 }
 
 .header__logo-studio {
@@ -111,14 +113,12 @@ img {
   display: flex;
   flex-direction: row;
   margin-right: 332px;
+
+  gap: 40px;
 }
 
 .menu__item {
   padding: 24px 0;
-}
-
-.menu__item:not(:last-child) {
-  margin-right: 40px;
 }
 
 .menu__link {
