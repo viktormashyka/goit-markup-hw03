@@ -50,7 +50,7 @@ img {
 }
 
 .container {
-  max-width: 1158px;
+  width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -111,6 +111,7 @@ img {
   display: flex;
   flex-direction: row;
   margin-right: 332px;
+  padding: 24px 0;
 }
 
 .menu__item {
